@@ -1,0 +1,109 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.cspgraphics.com" resolutions="1x" timestamp="1618353023163">
+  <folder name="css">
+    <file name="site_global.css" crc="84679823"/>
+    <file name="master_master.css" crc="4139344883" ref="services:contact-us:art-submission:index:about-us"/>
+    <file name="services.css" crc="3957710912" ref="services"/>
+    <file name="contact-us.css" crc="3980624607" ref="contact-us"/>
+    <file name="art-submission.css" crc="4193417001" ref="art-submission"/>
+    <file name="index.css" crc="502042491" ref="index"/>
+    <file name="about-us.css" crc="179472193" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="3780903520" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about-us:phone>contact-us:phone>art-submission:phone>services:services:art-submission:index:about-us:contact-us"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>about-us:phone>contact-us:phone>art-submission:phone>services:services:art-submission:index:about-us:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about-us:phone>contact-us:phone>art-submission:phone>services:services:art-submission:index:about-us:contact-us"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:phone>about-us:phone>contact-us:phone>art-submission:phone>services:services:art-submission:index:about-us:contact-us"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>about-us:phone>contact-us:phone>art-submission:phone>services"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>about-us:phone>contact-us:phone>art-submission:phone>services:services:art-submission:index:about-us:contact-us"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="services:art-submission:index:about-us:contact-us"/>
+    <file name="webpro.js" crc="3856315280" ref="services:art-submission:index:about-us:contact-us"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="services:art-submission:index:about-us:contact-us"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="services:art-submission:index:about-us:contact-us"/>
+    <file name="touchswipe.js" crc="3888935200" ref="services:art-submission:index:about-us:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="services:art-submission:index:about-us:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="elongatedwhite-01.png" crc="4156365316" seo="true" ref="services:art-submission:index:about-us:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="art-submission" alt=""/>
+    </file>
+    <file name="email copy.png" crc="101066054" seo="true" ref="services:art-submission:index:about-us:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="art-submission" alt=""/>
+    </file>
+    <file name="fb copy.png" crc="3956173922" seo="true" ref="services:art-submission:index:about-us:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="art-submission" alt=""/>
+    </file>
+    <file name="google- copy.png" crc="6526165" seo="true" ref="services:art-submission:index:about-us:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="art-submission" alt=""/>
+    </file>
+    <file name="linkedin copy.png" crc="4224581917" seo="true" ref="services:art-submission:index:about-us:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="art-submission" alt=""/>
+    </file>
+    <file name="dsc_0038-crop-u5617.jpg" crc="4129286541" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="services:art-submission:index:about-us:contact-us"/>
+    <file name="loading.gif" crc="3815509949" ref="services:art-submission:index:about-us:contact-us"/>
+    <file name="2014-10-14 125346-crop-u6327.jpg" crc="4163304279" seo="true" ref="art-submission">
+      <caption webpage="art-submission" alt=""/>
+    </file>
+    <file name="wetransfer.png" crc="4262973022" seo="true" ref="art-submission">
+      <caption webpage="art-submission" alt=""/>
+    </file>
+    <file name="dsc_0004-crop-u5930.jpg" crc="3963434667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-crop-u6120.jpg" crc="39998524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uploadicon36px.png" crc="236910158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0006-crop-u5572.jpg" crc="28284003" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="dsc_0042-crop-u5587.jpg" crc="72125328" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="about-us.css" crc="421100571" ref="phone>about-us"/>
+      <file name="contact-us.css" crc="421100571" ref="phone>contact-us"/>
+      <file name="index.css" crc="421100571" ref="phone>index"/>
+      <file name="art-submission.css" crc="421100571" ref="phone>art-submission"/>
+      <file name="services.css" crc="421100571" ref="phone>services"/>
+    </folder>
+    <file name="index.html" crc="4100591774" seo="true" mt="1413309878231" redirect="false"/>
+    <file name="about-us.html" crc="445498725" seo="true" mt="1413309878278" redirect="false"/>
+    <file name="contact-us.html" crc="120179340" seo="true" mt="1413309878363" redirect="false"/>
+    <file name="art-submission.html" crc="126440109" seo="true" mt="1413309878444" redirect="false"/>
+    <file name="services.html" crc="3786985412" seo="true" mt="1413309878530" redirect="false"/>
+  </folder>
+  <file name="services.html" crc="4232734202" seo="true" mt="1413309878528" redirect="true"/>
+  <file name="art-submission.html" crc="4105537186" seo="true" mt="1413309878442" redirect="true"/>
+  <file name="index.html" crc="390222746" seo="true" mt="1618352818370" redirect="true"/>
+  <file name="about-us.html" crc="340048572" seo="true" mt="1413309878276" redirect="true"/>
+  <file name="contact-us.html" crc="4155568790" seo="true" mt="1413309878361" redirect="true"/>
+</manifest>
